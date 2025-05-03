@@ -14,6 +14,12 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
     />
+    <link
+      rel="shortcut icon"
+      href="https://dl.dropboxusercontent.com/scl/fi/igvxai5i5f3x8xueubz34/favicon.png?rlkey=3o1zrmute62ampmgpogoztm9b&st=0g0dfcwd&dl=0"
+      type="image/x-icon"
+    />
+    <script src="app.js" defer></script>
     <title>Happy Cup - Coffee Brewers</title>
   </head>
   <body>
@@ -33,7 +39,7 @@
       </div>
     </header>
     <main>
-      <section class="hero-section">
+      <section id="top" class="hero-section">
         <img
           src="https://dl.dropboxusercontent.com/scl/fi/p7oaj6bfxwpa56bay0zbd/hero-img.png?rlkey=sscwq1f9vmqg3aost9glsns4h&st=az4dj7ez&dl=0"
           alt="Woman smiling and holding a coffee cup"
@@ -60,7 +66,7 @@
             <p class="body-text-2">&#128522; Always happy</p>
           </div>
 
-          <button>Shop now</button>
+          <button id="shop-button">Shop now</button>
         </div>
       </section>
 
@@ -114,9 +120,9 @@
                 src="https://dl.dropboxusercontent.com/scl/fi/m3l8yimbgadn6pe4wvr6e/zach-camp-DLPN3DYvDzY-unsplash-1.png?rlkey=2f5t4kwxv1armehuwxhprievj&st=gzkmvhdr&dl=0"
                 alt="Coffee beans bag"
                 class="card-img pb"
-              /><i class="fa-regular fa-heart"></i>
+              /><i id="favourite" class="fa-regular fa-heart"></i>
             </div>
-            <h4 class="pb">Daily hug - Light Roast</h4>
+            <h4 class="pb">Daily hug - Light</h4>
             <p class="body-text-2 lighter-text pb">
               Balanced and smooth with notes of chocolate, almond, and a hint of
               red apple. Comfort in a cup.
@@ -130,14 +136,15 @@
                 alt="Coffee beans bag"
                 class="card-img pb"
               />
-              <i class="fa-regular fa-heart"></i>
+              <i id="favourite2" class="fa-regular fa-heart"></i>
             </div>
-            <h4 class="pb">Daily hug - Light Roast</h4>
+            <h4 class="pb">Campfire Comfort - Rich</h4>
             <p class="body-text-2 lighter-text pb">
-              Balanced and smooth with notes of chocolate, almond, and a hint of
-              red apple. Comfort in a cup.
+              A rich, earthy dark roast with hints of dark chocolate, toasted
+              walnut, and a whisper of smoke. Inspired by cozy nights under the
+              stars, wrapped in a blanket with stories by the fire.
             </p>
-            <p class="body-text-2 lighter-text">£16 / 350g bag</p>
+            <p class="body-text-2 lighter-text">£18 / 350g bag</p>
           </div>
           <div class="shop-card">
             <div class="favourite">
@@ -145,18 +152,29 @@
                 src="https://dl.dropboxusercontent.com/scl/fi/m3l8yimbgadn6pe4wvr6e/zach-camp-DLPN3DYvDzY-unsplash-1.png?rlkey=2f5t4kwxv1armehuwxhprievj&st=gzkmvhdr&dl=0"
                 alt="Coffee beans bag"
                 class="card-img pb"
-              /><i class="fa-regular fa-heart"></i>
+              /><i id="favourite3" class="fa-regular fa-heart"></i>
             </div>
-            <h4 class="pb">Daily hug - Light Roast</h4>
+            <h4 class="pb">Golden Hour - Medium</h4>
             <p class="body-text-2 lighter-text pb">
-              Balanced and smooth with notes of chocolate, almond, and a hint of
-              red apple. Comfort in a cup.
+              A soft, balanced medium roast that brings out warm notes of honey,
+              almond, and vanilla. Crafted to capture the feeling of your
+              favorite time of day — when everything glows. Perfect for slow
+              mornings or golden evenings.
             </p>
-            <p class="body-text-2 lighter-text">£16 / 350g bag</p>
+            <p class="body-text-2 lighter-text">£14 / 350g bag</p>
           </div>
         </div>
       </section>
-      <!-- <button class="back-to-top">Back to top</button> -->
+      <!-- audio from https://pixabay.com/music/search/lofi/ -->
+      <!-- I'm hidding the controls because they are ugly. "controls" would go after the tag audio with autoplay, loop, etc if we wanted to show them -->
+      <audio
+        autoplay
+        loop
+        src="/files/rainy-lofi-city-lofi-music-332746.mp3"
+      ></audio>
+      <button id="scroll-up" class="back-to-top">
+        <i class="fa-solid fa-chevron-up"></i>
+      </button>
     </main>
     <footer id="visitus">
       <div class="footer-content">
