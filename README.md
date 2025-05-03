@@ -1,5 +1,5 @@
 # week01-assignment
 
-A splash page.
+A splash page. WIP
 
 ## Author: Elena
