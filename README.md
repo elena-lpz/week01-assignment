@@ -57,6 +57,7 @@ This week, I was able to achieve all the stretch requirements for this project a
 
 ## Some extras
 
+- I designed a website for with project
 - I used JS to give the Shop now button on the hero section functionality.
 - I used JS to make the favourite buttons work. The heart icon can be clicked and unclicked.
 - I used CSS to add a hover effect to the heart icons
@@ -69,10 +70,11 @@ This week, I was able to achieve all the stretch requirements for this project a
 
 [Figma design] (https://www.figma.com/proto/eiwXmSbJpLWLxW4Th8vR3I/Untitled?node-id=1-2&t=fHtLFYD2NH1oyWAC-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
-Wireframe: ![Wireframe](files/Wireframe (3).png)
+[Wireframe] (https://github.com/elena-lpz/week01-assignment/blob/96ce67a2aa6cc33282ddfa0961e04c187b249ce4/files/Wireframe%20(3).png)
 
 # References and resources
 
+- ChatGPT for copy
 - Illustrations from: https://getillustrations.com/illustration-pack/color-app-free-icons
 - Audio from https://pixabay.com/music/search/lofi/
 - Images from [Pixabay](https://pixabay.com/) and https://unsplash.com/
