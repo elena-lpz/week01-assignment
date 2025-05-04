@@ -366,3 +366,20 @@ footer {
   font-size: 40px;
   color: white;
 }
+
+.audio-controls {
+  background-color: transparent;
+  color: #333;
+  padding: 0;
+}
+
+.audio-controls:hover {
+  background-color: transparent;
+  color: #004aad;
+}
+
+.sound-bar {
+  padding-left: 24px;
+  display: flex;
+  gap: 20px;
+}

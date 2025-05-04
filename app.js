@@ -88,3 +88,19 @@ scrollUp.addEventListener("click", function (scrollToTop) {
   //   console.log(scrollToTop);
   document.querySelector("#top").scrollIntoView();
 });
+
+//Play and pause buttons
+
+const audioPlay = document.querySelector("audio");
+const playMusic = document.getElementById("play");
+playMusic.addEventListener("click", function (event) {
+  audioPlay.play();
+  console.log(play.textContent);
+});
+
+const audioPause = document.querySelector("audio");
+const pauseMusic = document.getElementById("pause");
+pauseMusic.addEventListener("click", function (event) {
+  audioPause.pause();
+  console.log(pause.textContent);
+});

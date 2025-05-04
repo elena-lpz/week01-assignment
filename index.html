@@ -35,6 +35,14 @@
           <a class="nav-link" href="#about">About us</a>
           <a class="nav-link" href="#shop">Shop</a>
           <a class="nav-link" href="#visitus">Visit us</a>
+          <div class="sound-bar">
+            <button id="play" class="audio-controls">
+              <i class="fa-solid fa-play"></i>
+            </button>
+            <button id="pause" class="audio-controls">
+              <i class="fa-solid fa-pause"></i>
+            </button>
+          </div>
         </nav>
       </div>
     </header>
@@ -166,11 +174,7 @@
       </section>
       <!-- audio from https://pixabay.com/music/search/lofi/ -->
       <!-- I'm hidding the controls because they are ugly. "controls" would go after the tag audio with autoplay, loop, etc if we wanted to show them -->
-      <audio
-        autoplay
-        loop
-        src="/week01-assignment/rainy-lofi-city-lofi-music-332746.mp3"
-      ></audio>
+      <audio src="../files/rainy-lofi-city-lofi-music-332746.mp3"></audio>
       <button id="scroll-up" class="back-to-top">
         <i class="fa-solid fa-chevron-up"></i>
       </button>

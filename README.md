@@ -53,7 +53,7 @@ This week, I was able to achieve all the stretch requirements for this project a
 - I implemented smooth scrolling
 - All my links and buttons have a hover effect for better UX
 - I created a footer with basci social media icons that link to its respective pages.
-- I added a background music track that plays automatically. I hid the player because I did not like the way it looked on the page, but the tab can be muted.
+- I added a background music track that plays automatically. I hid the player because I did not like the way it looked on the page, but added a play and pause buttons to the navbar
 
 ## Some extras
 
@@ -64,7 +64,8 @@ This week, I was able to achieve all the stretch requirements for this project a
 - I installed the Google font "Sora" to use on my page
 - I installed fontawesome icons
 - I used svgs as well to show 2 ways of doing this.
-- I added a bacground image to the footer, to achieve a similar look to the different sections of the example page provided in this assigment
+- I added a background image to the footer, to achieve a similar look to the different sections of the example page provided in this assigment
+- Finally I followed the instructions for this week's lesson: Interaction with Audio and Video Elements. And added my own audio player using Javascript
 
 ## Problems encountered
 
@@ -86,7 +87,7 @@ and finally I tried taking the file out of the folder and linking it like
 
 /rainy-lofi-city-lofi-music-332746.mp3"
 
-Unfortunately, none of these worked and I would like to know why. It did seem to work when I unhid the controls, but I did not want them to show.
+Unfortunately, none of these worked and I would like to know why. It did seem to work when I unhid the controls using devt tools, but I did not want them to show.
 
 ## Wireframe and Figma design
 
