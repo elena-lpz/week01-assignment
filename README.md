@@ -66,6 +66,14 @@ This week, I was able to achieve all the stretch requirements for this project a
 - I used svgs as well to show 2 ways of doing this.
 - I added a bacground image to the footer, to achieve a similar look to the different sections of the example page provided in this assigment
 
+## Problems encountered
+
+For some reason my audio did not work when I pushed the project to github even though I even corrected the path to look like
+
+<audio autoplay="" loop="" src="/week01-assignment/files/rainy-lofi-city-lofi-music-332746.mp3"></audio>
+
+To fix this I used the link from my repo to link the audio. I would like to know why my original attempt did not work.
+
 ## Wireframe and Figma design
 
 [Figma design] (https://www.figma.com/proto/eiwXmSbJpLWLxW4Th8vR3I/Untitled?node-id=1-2&t=fHtLFYD2NH1oyWAC-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
