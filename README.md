@@ -68,15 +68,25 @@ This week, I was able to achieve all the stretch requirements for this project a
 
 ## Problems encountered
 
-For some reason my audio did not work when I pushed the project to github even though I even corrected the path to look like
+For some reason my audio did not work when I pushed the project to github even though I even corrected the path to look like:
 
-<audio autoplay="" loop="" src="/week01-assignment/files/rainy-lofi-city-lofi-music-332746.mp3"></audio>
+from:
+
+<audio autoplay loop src="/files/rainy-lofi-city-lofi-music-332746.mp3"></audio>
+
+to:
+
+<audio autoplay loop src="/week01-assignment/files/rainy-lofi-city-lofi-music-332746.mp3"></audio>
 
 I also tried
 
 https://github.com/elena-lpz/week01-assignment/blob/main/files/rainy-lofi-city-lofi-music-332746.mp3?raw=true
 
-To fix this I used the link from my repo to link the audio. I would like to know why my original attempt did not work.
+and finally I tried taking the file out of the folder and linking it like
+
+<audio autoplay loop src="/rainy-lofi-city-lofi-music-332746.mp3"></audio>
+
+Unfortunately, none of these worked and I would like to know why.
 
 ## Wireframe and Figma design
 
