@@ -69,17 +69,22 @@ This week, I was able to achieve all the stretch requirements for this project a
 
 [Figma design] (https://www.figma.com/proto/eiwXmSbJpLWLxW4Th8vR3I/Untitled?node-id=1-2&t=fHtLFYD2NH1oyWAC-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
-Wireframe: /files/Wireframe (3).png
+Wireframe: ![Wireframe](files/Wireframe (3).png)
 
 # References and resources
 
-Illustrations from: https://getillustrations.com/illustration-pack/color-app-free-icons
-Audio from https://pixabay.com/music/search/lofi/
-Images from [Pixabay](https://pixabay.com/) and https://unsplash.com/
-Icons from https://fontawesome.com/
-Logo from https://www.canva.com/
+- Illustrations from: https://getillustrations.com/illustration-pack/color-app-free-icons
+- Audio from https://pixabay.com/music/search/lofi/
+- Images from [Pixabay](https://pixabay.com/) and https://unsplash.com/
+- Icons from https://fontawesome.com/
+- Logo from https://www.canva.com/
 
 ## JavaScript
+
+### Scroll to section
+
+https://www.w3schools.com/jsref/met_element_scrollintoview.asp
+https://www.w3schools.com/jsref/met_win_scrollto.asp
 
 ### Favourite buttons
 
