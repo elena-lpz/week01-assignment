@@ -72,11 +72,11 @@ For some reason my audio did not work when I pushed the project to github even t
 
 from:
 
-<!-- <audio autoplay loop src="/files/rainy-lofi-city-lofi-music-332746.mp3"></audio> -->
+/files/rainy-lofi-city-lofi-music-332746.mp3
 
 to:
 
-<!-- <audio autoplay loop src="/week01-assignment/files/rainy-lofi-city-lofi-music-332746.mp3"></audio> -->
+/week01-assignment/files/rainy-lofi-city-lofi-music-332746.mp3"
 
 I also tried
 
@@ -84,9 +84,9 @@ https://github.com/elena-lpz/week01-assignment/blob/main/files/rainy-lofi-city-l
 
 and finally I tried taking the file out of the folder and linking it like
 
-<!-- <audio autoplay loop src="/rainy-lofi-city-lofi-music-332746.mp3"></audio> -->
+/rainy-lofi-city-lofi-music-332746.mp3"
 
-Unfortunately, none of these worked and I would like to know why.
+Unfortunately, none of these worked and I would like to know why. It did seem to work when I unhid the controls, but I did not want them to show.
 
 ## Wireframe and Figma design
 
