@@ -72,6 +72,10 @@ For some reason my audio did not work when I pushed the project to github even t
 
 <audio autoplay="" loop="" src="/week01-assignment/files/rainy-lofi-city-lofi-music-332746.mp3"></audio>
 
+I also tried
+
+https://github.com/elena-lpz/week01-assignment/blob/main/files/rainy-lofi-city-lofi-music-332746.mp3?raw=true
+
 To fix this I used the link from my repo to link the audio. I would like to know why my original attempt did not work.
 
 ## Wireframe and Figma design
