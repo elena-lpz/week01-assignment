@@ -89,6 +89,8 @@ and finally I tried taking the file out of the folder and linking it like
 
 Unfortunately, none of these worked and I would like to know why. It did seem to work when I unhid the controls using devt tools, but I did not want them to show.
 
+UPDATE: Leaving all of this in for clarity, but apparetly Github was messing with me yesterday because I reverted it back to my original path and today it works. Fun times.
+
 ## Wireframe and Figma design
 
 [Figma design] (https://www.figma.com/proto/eiwXmSbJpLWLxW4Th8vR3I/Untitled?node-id=1-2&t=fHtLFYD2NH1oyWAC-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
