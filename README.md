@@ -53,7 +53,7 @@ This week, I was able to achieve all the stretch requirements for this project a
 - I implemented smooth scrolling
 - All my links and buttons have a hover effect for better UX
 - I created a footer with basci social media icons that link to its respective pages.
-- I added a background music track that plays automatically. I hid the player because I did not like the way it looked on the page, but added a play and pause buttons to the navbar
+- I added a background music track. I hid the player because I did not like the way it looked on the page, but added a play and pause buttons to the navbar
 
 ## Some extras
 
