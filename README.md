@@ -2,6 +2,10 @@
 
 A splash page.
 
+# Live Demo
+
+[Happy Cup Live Demo](https://elena-lpz.github.io/week01-assignment/)
+
 # Basic requirements
 
 ## User stories
